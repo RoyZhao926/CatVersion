@@ -59,4 +59,4 @@ If you use this code or ideas from our paper, please cite our paper:
 ```
 
 ## Acknowledgments
-This code borrows from [Textual Inversion](https://github.com/rinongal/textual_inversion), [Transformers](https://github.com/huggingface/transformers). Some snippets of colab code from [prompt-to-prompt](https://github.com/phymhan/prompt-to-prompt)
+This code borrows from [Textual Inversion](https://github.com/rinongal/textual_inversion), [Transformers](https://github.com/huggingface/transformers). Some snippets of colab code from [prompt-to-prompt](https://github.com/phymhan/prompt-to-prompt)# CatVersion
