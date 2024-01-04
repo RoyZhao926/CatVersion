@@ -1,4 +1,4 @@
-# CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization
+# <img src="images/teasers.jpg" alt="icon" style="width: 1em; height: 1em; vertical-align: middle;" />CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization
 ![teaser](images/teasers.jpg)
 [![arXiv](https://img.shields.io/badge/arXiv-2208.01618-b31b1b.svg)](https://arxiv.org/abs/2311.14631) 
 
