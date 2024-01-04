@@ -1,4 +1,4 @@
-# 🐾CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization
+# CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization
 ![teaser](images/teasers.jpg)
 [![arXiv](https://img.shields.io/badge/arXiv-2208.01618-b31b1b.svg)](https://arxiv.org/abs/2311.14631) 
 
@@ -59,4 +59,4 @@ If you use this code or ideas from our paper, please cite our paper:
 ```
 
 ## Acknowledgments
-This code borrows from [Textual Inversion](https://github.com/rinongal/textual_inversion), [Transformers](https://github.com/huggingface/transformers). Some snippets of colab code from [prompt-to-prompt](https://github.com/phymhan/prompt-to-prompt)
+This code borrows from [Textual Inversion](https://github.com/rinongal/textual_inversion), [Transformers](https://github.com/huggingface/transformers). Some snippets of colab code from [prompt-to-prompt](https://github.com/phymhan/prompt-to-prompt). Thanks to these open-source contributions! 👼
