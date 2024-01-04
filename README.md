@@ -1,4 +1,4 @@
-# CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization
+# 🐾CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization
 ![teaser](images/teasers.jpg)
 [![arXiv](https://img.shields.io/badge/arXiv-2208.01618-b31b1b.svg)](https://arxiv.org/abs/2311.14631) 
 
@@ -17,24 +17,24 @@ This is the official repository of the paper
 [CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization](https://arxiv.org/abs/2311.14631)
 ## Updates
 
-`01/01/2024` Code released!
+`01/01/2024` Code released!🐣
 
 ## Getting Started
 ### preparation
 * **Pre-trained model**: This code implementation is based on [SD v1.5](https://drive.google.com/file/d/1S6NZkMJCm8KVJ0ctbAdw_PAIoOZZh2n1/view?usp=sharing). Please put it to ''./models/sd/~.ckpt''
-* **Environment**: Please reference *environment.yaml*
+* **Environment**: Please reference *environment.yaml* 
 
 ### test
 Please run 
 ```
 sh run.sh
 ```
-or go to [./prompt-to-prompt_sd_attention_map.ipynb](prompt-to-prompt_sd_attention_map.ipynb)
+or go to [./prompt-to-prompt_sd_attention_map.ipynb](prompt-to-prompt_sd_attention_map.ipynb) 
 
 
 ### train
 
-* **Initialization**:  Base class word initialization in "ldm/data/personalized.py" 
+* **Initialization**:  Base class (trigger) word initialization in "ldm/data/personalized.py" 
 * **Run**:
 ```
 python main.py --base configs/stable-diffusion/v1-finetune.yaml \
