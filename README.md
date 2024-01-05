@@ -15,16 +15,16 @@
 ## Description
 This is the official repository of the paper 
 [CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization](https://arxiv.org/abs/2311.14631) 
-## Updates ✏
+## Updates 
 
-`01/01/2024` Code released! 🐣
+`01/01/2024` Code released! 🐣🐣🐣
 
-## Getting Started 🚀🚀🚀
+## Getting Started 🧨🧨🧨
 ### Preparation
 * **Pre-trained model**: This code implementation is based on [SD v1.5](https://drive.google.com/file/d/1S6NZkMJCm8KVJ0ctbAdw_PAIoOZZh2n1/view?usp=sharing). Please put it to ''./models/sd/~.ckpt''
 * **Environment**: Please reference *environment.yaml* 
 
-### Test 🧨 
+### Test 🚀
 Please run 
 ```
 sh run.sh
@@ -45,7 +45,7 @@ python main.py --base configs/stable-diffusion/v1-finetune.yaml \
                --data_root your/dataset/root \
 ```
 
-## Citation ✏
+## Citation 
 If you use this code or ideas from our paper, please cite our paper:
 ```
 @misc{zhao2023catversion,
