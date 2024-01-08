@@ -7,6 +7,7 @@
 [![Paper](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=b31b1b)](https://arxiv.org/abs/2311.14631)
 [![Project Page](https://img.shields.io/badge/Project-Website-b31b1b?logo=googlechrome&logoColor=b31b1b)](https://royzhao926.github.io/CatVersion-page/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRoyZhao926%2FCatVersion&count_bg=%23B31B1B&title_bg=%23555555&icon=opsgenie.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license" /></a>
 
 > Ruoyu Zhao<sup>1</sup>, Mingrui Zhu<sup>1</sup>, Shiyin Dong<sup>1</sup>,  Nannan Wang<sup>1</sup>, Xinbo Gao<sup>2</sup><br>
 > <sup>1</sup>Xidian University, <sup>2</sup>Chongqing University of Posts and Telecommunications
